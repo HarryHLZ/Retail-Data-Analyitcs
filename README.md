@@ -1,1 +1,4 @@
 # Retail-Data-Analyitcs
+In this project I'm responsible for delivering highly values data analytics and insights to help the business make strategic decisions in the retail market. During this project I will use R to complete this project.<br><br>
+There are in 2 different tasks in this project. In the task 1, I need to nalyse the data to understand the current purchasing trends and behaviours.The client is particularly interested in customer segments and their chip purchasing behaviour. Consider what metrics would help describe the customers’ purchasing behaviour. While in the task 2 I going to evaluate the performance of a store trail which was performed in three different stores. I will create a measure to compare differnt control stores to each of the trial stores.<br><br>
+You can find my R code from Jupyter Notebook and the data I used for this project :)
